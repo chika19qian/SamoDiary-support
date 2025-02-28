@@ -1,0 +1,1 @@
+# SamoDiary-support
